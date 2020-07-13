@@ -5,7 +5,8 @@ function mostrar()
 {
 	var nombreIngresado;
 	nombreIngresado=txtIdNombre.value;
-	alert("ok");
+	alert("su nombre es : "+nombreIngresado);
+//ID "CUADRO DE TEXTO
 
 }
 
