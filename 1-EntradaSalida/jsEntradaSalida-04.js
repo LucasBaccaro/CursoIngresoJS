@@ -5,8 +5,8 @@ y lo muestro por 'ID' al presionar el botón 'mostrar'
 function mostrar()
 {
 var nombre;
-nombre=prompt("Ingresa tu nombre", "Natalia Natalia");
-txtIdNombre.value = nombre ;
+nombre=prompt("Ingrese su nombre");
+txtIdNombre.value=nombre;
 
 }
 

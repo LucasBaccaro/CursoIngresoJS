@@ -3,10 +3,11 @@ Debemos lograr tomar un nombre con 'prompt'
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
-	var nombre ; //se define una unica vez la variable
-	nombre=prompt("Ingresa tu nombre", "Natalia Natalia");
-	alert ("El nombre ingresado es "+nombre) ;
+	var nombre;
+	
+	nombre=prompt("Ingrese su nombre");
 
+	alert("Su nombre es: "+nombre);
 	//PROMPT =Devuelve un valor,pide un valor al usuario
 //test
 //nombre="Maria";

@@ -4,7 +4,11 @@ B.	Al ingresar una temperatura en Centígrados debemos mostrar la temperatura en
 */
 function FahrenheitCentigrados () 
 {
-	
+    //"FahrenheitCentigrados()" de farenheit a centigrados
+    
+    //"CentigradosFahrenheit()" de centigrados a farenheit
+    
+    //txtIdTemperatura
 }
 
 function CentigradosFahrenheit () 
